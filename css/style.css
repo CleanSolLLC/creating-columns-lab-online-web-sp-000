@@ -68,10 +68,10 @@ img:hover {
  
 
  /* create your tile classes! we recommend .small .med .large */
-img.large, img.small, form, input, table, video, audio, iframe {
-	width: 100%;
-	max-width: 100%;
-}
+/*img.large, img.small, form, input, table, video, audio, iframe {*/
+/*	width: 100%;*/
+/*	max-width: 100%;*/
+/*}*/
 
 
 

@@ -50,7 +50,7 @@ img:hover {
 
 .column {
   display: inline-block;
-  width: 50%;
+  width: 33%;
 }
 
 /* create your tile classes! we recommend .small .med .large */
@@ -66,11 +66,7 @@ img:hover {
   width: 300%;
  }
  
-/* create your tile classes! we recommend .small .med .large */
-img.large, img.small, form, input, table, video, audio, iframe {
-	width: 100%;
-	max-width: 100%;
-}
+
  /* create your tile classes! we recommend .small .med .large */
 img.large, img.small, form, input, table, video, audio, iframe {
 	width: 100%;
